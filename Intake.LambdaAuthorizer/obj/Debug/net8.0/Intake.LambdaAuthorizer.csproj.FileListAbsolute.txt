@@ -1,0 +1,15 @@
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\Intake.LambdaAuthorizer.csproj.AssemblyReference.cache
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\Intake.LambdaAuthorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\Intake.LambdaAuthorizer.AssemblyInfoInputs.cache
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\Intake.LambdaAuthorizer.AssemblyInfo.cs
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\Intake.LambdaAuthorizer.csproj.CoreCompileInputs.cache
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\bin\Debug\net8.0\Intake.LambdaAuthorizer.deps.json
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\bin\Debug\net8.0\Intake.LambdaAuthorizer.dll
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\bin\Debug\net8.0\Intake.LambdaAuthorizer.pdb
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\bin\Debug\net8.0\Intake.Common.dll
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\bin\Debug\net8.0\Intake.Common.pdb
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\Intake.L.CF80099C.Up2Date
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\Intake.LambdaAuthorizer.dll
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\refint\Intake.LambdaAuthorizer.dll
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\Intake.LambdaAuthorizer.pdb
+C:\Users\Tevfik Ekici\source\repos\Intake.LambdaAuthorizer\obj\Debug\net8.0\ref\Intake.LambdaAuthorizer.dll
